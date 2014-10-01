@@ -1,4 +1,4 @@
 AIDE
 ====
 
-Created and mpty so far.
+Created and empty so far.
